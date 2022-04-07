@@ -1,2 +1,2 @@
 # igloo
-Connect with random people around the globe, chat and connect with them.
+Connect with random people around the world, chat and connect with them.
